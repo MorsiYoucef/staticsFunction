@@ -1,0 +1,2 @@
+# staticsFunction
+new repo
